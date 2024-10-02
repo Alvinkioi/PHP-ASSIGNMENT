@@ -40,4 +40,12 @@ echo "<br>";
 
 $citroen = new citroen("Citroen");
 echo $citroen->intro();
+
+
+/*CODE OUTPUT=>
+Choose German quality! I'm an Audi!
+Proud to be Swedish! I'm a Volvo!
+French extravagance! I'm a Citroen!*/
+
+
 ?>
